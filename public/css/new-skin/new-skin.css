@@ -25,7 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 0 0 25px 0;
+	margin: 0 0 25px;
 	font-size: 30px;
 	color: #323232;
 	line-height: 1.4em;
@@ -60,7 +60,7 @@ p {
 	font-size: 16px;
 	line-height: 1.8em;
 	padding: 0;
-	margin: 0 0 25px 0;
+	margin: 0 0 25px;
 }
 
 strong {
@@ -183,7 +183,6 @@ strong {
 		top: 20px;
 		left: 0;
 		width: auto;
-		max-width: 100%;
 		margin-left: auto;
 		margin-right: auto;
 		max-width: 700px;
@@ -213,10 +212,9 @@ strong {
 		margin: 0;
 		top: 0;
 		width: auto;
-		max-width: 100%;
 		margin-left: auto;
 		margin-right: auto;
-		padding: 60px 0 0 0;
+		padding: 60px 0 0;
 		max-width: 400px;
 	}
 	.container.opened {
@@ -374,7 +372,7 @@ strong {
 p {
 	font-size: 16px;
 	line-height: 1.8em;
-	margin: 0 0 25px 0;
+	margin: 0 0 25px;
 }
 
 strong {
@@ -695,10 +693,10 @@ input[type="file"] {
 		display: none;
 	}
 	.header .top-menu ul li:last-child a {
-		border-radius: 0 0 4px 0;
-		-moz-border-radius: 0 0 4px 0;
-		-webkit-border-radius: 0 0 4px 0;
-		-khtml-border-radius: 0 0 4px 0;
+		border-radius: 0 0 4px;
+		-moz-border-radius: 0 0 4px;
+		-webkit-border-radius: 0 0 4px;
+		-khtml-border-radius: 0 0 4px;
 	}
 	.header .top-menu ul {
 		background: #fff;
@@ -761,7 +759,7 @@ input[type="file"] {
 }
 
 .card-started .profile .image {
-	margin: 80px 0 20px 0;
+	margin: 80px 0 20px;
 	width: 146px;
 }
 
@@ -785,7 +783,7 @@ input[type="file"] {
 
 .card-started .profile .social {
 	position: relative;
-	margin: 16px 0 0 0;
+	margin: 16px 0 0;
 }
 
 /*
@@ -817,7 +815,7 @@ input[type="file"] {
 }
 
 .card-inner .card-wrap {
-	padding: 30px 30px 0 30px;
+	padding: 30px 30px 0;
 	position: relative;
 }
 
@@ -880,7 +878,7 @@ input[type="file"] {
 	Content
 */
 .content {
-	margin: 0 0 40px 0;
+	margin: 0 0 40px;
 }
 
 .content:last-child {
@@ -888,8 +886,8 @@ input[type="file"] {
 }
 
 .content .title {
-	margin: 0 0 0 0;
-	padding: 0 0 30px 0;
+	margin: 0;
+	padding: 0 0 30px;
 	font-size: 20px;
 	color: #323232;
 	line-height: 21px;
@@ -954,7 +952,7 @@ input[type="file"] {
 }
 
 .content.contacts .info-list ul {
-	margin: -11px -30px 0 -30px;
+	margin: -11px -30px 0;
 	font-size: 0;
 }
 
@@ -1042,7 +1040,7 @@ input[type="file"] {
 		width: 100%;
 	}
 	.content.about .info-list ul {
-		margin: -11px -30px 0 -30px;
+		margin: -11px -30px 0;
 	}
 }
 
@@ -1052,10 +1050,10 @@ input[type="file"] {
 		width: auto;
 	}
 	.content.about .info-list ul {
-		margin: -11px -30px 0 -30px;
+		margin: -11px -30px 0;
 	}
 	.content.contacts .info-list ul {
-		margin: -11px auto 0 auto;
+		margin: -11px auto 0;
 	}
 	.content.contacts .info-list ul li {
 		padding: 11px 0;
@@ -1092,7 +1090,7 @@ input[type="file"] {
 }
 
 .service-items .service-item .name {
-	margin: 10px 0 5px 0;
+	margin: 10px 0 5px;
 	font-size: 17px;
 	color: #323232;
 	font-weight: 500;
@@ -1112,7 +1110,7 @@ input[type="file"] {
 /* Pricing */
 .pricing-items .pricing-item {
 	position: relative;
-	padding: 0 0 100px 0;
+	padding: 0 0 100px;
 }
 
 .pricing-items .pricing-item .name {
@@ -1181,7 +1179,7 @@ input[type="file"] {
 */
 .resume-title,
 .skill-title {
-	padding: 0 0 30px 0;
+	padding: 0 0 30px;
 }
 
 .resume-title:after,
@@ -1227,7 +1225,7 @@ input[type="file"] {
 }
 
 .resume-items .resume-item .date {
-	margin: 0 0 11px 0;
+	margin: 0 0 11px;
 	padding: 0 5px;
 	font-size: 13px;
 	line-height: 18px;
@@ -1249,7 +1247,7 @@ input[type="file"] {
 }
 
 .resume-items .resume-item .company {
-	margin: 0 0 11px 0;
+	margin: 0 0 11px;
 	font-size: 14px;
 	color: #999999;
 	font-weight: 400;
@@ -1351,7 +1349,7 @@ input[type="file"] {
 }
 
 .content.works .box-item .desc {
-	padding: 15px 0 0 0;
+	padding: 15px 0 0;
 }
 
 .content.blog .box-item .desc {
@@ -1536,13 +1534,13 @@ input[type="file"] {
 }
 
 .box-item .desc .category {
-	margin: 0 0 5px 0;
+	margin: 0 0 5px;
 	font-size: 14px;
 	color: #999999;
 }
 
 .content.works .box-item .desc .category {
-	margin: 5px 0 0 0;
+	margin: 5px 0 0;
 	font-size: 14px;
 }
 
@@ -1557,7 +1555,7 @@ input[type="file"] {
 	bottom: auto;
 	width: auto;
 	height: auto;
-	margin: 0 0 11px 0;
+	margin: 0 0 11px;
 	padding: 0 5px;
 	display: inline-block;
 	line-height: 18px;
@@ -1597,7 +1595,7 @@ input[type="file"] {
 }
 
 .single-post-text .blog-detail, .popup-box .blog-detail {
-	margin: 0 0 25px 0;
+	margin: 0 0 25px;
 	font-size: 12px;
 	color: #999999;
 }
@@ -1621,11 +1619,11 @@ input[type="file"] {
     content: '';
     content: "\02022";
     font-family: serif;
-    padding: 0 6px 0 6px;
+    padding: 0 6px;
 }
 
 .single-post-text .blog-image, .blog-content .blog-image {
-	margin: 0 0 25px 0;
+	margin: 0 0 25px;
 	font-size: 0;
 }
 
@@ -1638,7 +1636,7 @@ input[type="file"] {
 }
 
 .comment-author {
-	margin: 0 0 5px 0;
+	margin: 0 0 5px;
 	display: block;
 }
 
@@ -1734,7 +1732,7 @@ iframe, object {
 }
 
 .single-post-text figure, .comment-text figure, .blog-content figure {
-	margin: 0 0 30px 0;
+	margin: 0 0 30px;
 	max-width: 100%;
 }
 
@@ -1853,7 +1851,7 @@ iframe, object {
 }
 
 .pager .nav-links {
-	margin: 30px 0 0 0;
+	margin: 30px 0 0;
 	padding: 13px;
 	background: #fafafa;
 	border-radius: 4px;
@@ -1945,7 +1943,6 @@ a.next.page-numbers:hover {
 }
 
 .navigation.post-navigation .nav-links a {
-	position: relative;
 	font-size: 14px;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -2092,8 +2089,8 @@ a.next.page-numbers:hover {
 }
 
 .post-comments .post-comment {
-	padding: 20px 0 0 0;
-	margin: 20px 0 0 0;
+	padding: 20px 0 0;
+	margin: 20px 0 0;
 	position: relative;
 	display: block;
 	list-style: none;
@@ -2151,7 +2148,7 @@ a.next.page-numbers:hover {
 }
 
 .post-comments .post-comment .desc .name {
-	margin: 0 0 7px 0;
+	margin: 0 0 7px;
 	position: relative;
 	color: #78cc6d;
 	font-weight: 500;
@@ -2237,7 +2234,7 @@ a.next.page-numbers:hover {
 }
 
 .post-comments ul.children {
-	margin: 20px 0 0 0;
+	margin: 20px 0 0;
 	padding: 20px;
 	border-top: none;
 	background: #f6f6f6;
@@ -2268,7 +2265,7 @@ a.next.page-numbers:hover {
 }
 
 .post-comments .form-comment .title {
-	margin: 60px 0 30px 0;
+	margin: 60px 0 30px;
 }
 
 .post-comments .form-comments.row .col {
@@ -2304,7 +2301,7 @@ a.next.page-numbers:hover {
 }
 
 .comments .comment-respond {
-	padding: 30px 0 0 0;
+	padding: 30px 0 0;
 }
 
 .comments .comment-respond .group-val {
@@ -2321,7 +2318,7 @@ a.next.page-numbers:hover {
 }
 
 .post-comments .title {
-	padding: 0 0 10px 0;
+	padding: 0 0 10px;
 	font-size: 17px;
 	line-height: 26px;
 	font-weight: 500;
@@ -2352,7 +2349,7 @@ a.next.page-numbers:hover {
 		text-align: left;
 	}
 	.post-comments ul.children {
-		padding: 15px 15px 15px 15px;
+		padding: 15px;
 	}
 	.post-comments ul.children ul.children {
 		margin: 15px 0 0 10px;
@@ -2423,7 +2420,7 @@ a.next.page-numbers:hover {
 }
 
 .profile .main-menu-fixed {
-	padding: 75px 25px 100px 25px;
+	padding: 75px 25px 100px;
 	position: absolute;
 	top: 0;
 	left: 0;
