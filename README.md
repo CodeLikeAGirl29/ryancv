@@ -10,6 +10,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codelikeagirl29&repo=ryancv&theme=synthwave">
 </p>
 
+[![CodeFactor](https://www.codefactor.io/repository/github/codelikeagirl29/ryancv/badge)](https://www.codefactor.io/repository/github/codelikeagirl29/ryancv)
+
 ### [+] Description
 RyanCV is a sleek and modern portfolio project built with Next.js, showcasing Ryan's skills, experience, and accomplishments. With a clean design and intuitive navigation, it offers visitors a comprehensive glimpse into Ryan's professional journey and expertise.
 
