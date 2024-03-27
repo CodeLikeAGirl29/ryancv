@@ -767,8 +767,9 @@ input[type="file"] {
 
 .card-started .profile .title,
 .content-sidebar .profile .title {
-	font-size: 34px;
+	font-size: 29px;
 	color: #323232;
+   -webkit-text-stroke: 1px #0096FF;
 }
 
 .card-started .profile .subtitle,
